@@ -14,7 +14,9 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity android:name=".ui.activity.ShowBitmapViewPagerActivity"></activity>
-        <activity android:name=".ui.activity.ShowBitmapListActivity">
+        <activity android:name=".ui.activity.ShowBitmapListActivity"
+            android:label="LoadBitmap"
+            android:icon="@drawable/icon_home">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
