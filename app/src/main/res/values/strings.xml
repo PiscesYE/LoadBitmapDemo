@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LoadBitmapDemo</string>
+    <string name="text_conversion_list_view">转换到 ListView</string>
+    <string name="text_conversion_grid_view">转换到 GridView</string>
+    <string name="text_switch_list_view">ListView</string>
+    <string name="text_swtich_grid_view">GridView</string>
+</resources>
